@@ -1,0 +1,201 @@
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3.5rem 1.5rem;
+  min-height: calc(100vh - 200px);
+}
+
+.card {
+  background-color: var(--color-surface);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+  padding: 2.25rem;
+  width: 100%;
+  max-width: 460px;
+  transition: all var(--transition-normal);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.logoBadge {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-color: var(--color-surface-subtle);
+  border: 1px solid var(--color-border);
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+}
+
+.titulo {
+  margin: 0 0 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--color-text);
+  letter-spacing: -0.02em;
+}
+
+.subtitulo {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+}
+
+/* Selector de pestañas */
+.tabsContenedor {
+  display: flex;
+  background-color: var(--color-surface-subtle);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 4px;
+  margin-bottom: 1.75rem;
+  gap: 4px;
+}
+
+.tabBtn {
+  flex: 1;
+  padding: 0.65rem 1rem;
+  border: none;
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: 0.88rem;
+  font-weight: 600;
+  border-radius: calc(var(--radius-md) - 2px);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+}
+
+.tabBtn:hover:not(.tabActivo) {
+  color: var(--color-text);
+}
+
+.tabActivo {
+  background-color: var(--color-surface);
+  color: var(--color-primary);
+  box-shadow: var(--shadow-sm);
+  font-weight: 700;
+}
+
+/* Pie de tarjeta */
+.footerCard {
+  margin-top: 1.75rem;
+  text-align: center;
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+  border-top: 1px solid var(--color-border);
+  padding-top: 1.25rem;
+}
+
+.footerCard p {
+  margin: 0;
+}
+
+.toggleLink {
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0;
+  font-size: inherit;
+  font-family: inherit;
+  transition: text-decoration var(--transition-fast);
+}
+
+.toggleLink:hover {
+  text-decoration: underline;
+}
+
+/* Vista de Usuario ya autenticado */
+.usuarioConectadoCard {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.avatarGrande {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--color-primary);
+  box-shadow: var(--shadow-md);
+}
+
+.avatarFallback {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  background-color: var(--color-surface-subtle);
+  border: 2px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary);
+}
+
+.usuarioInfo h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1.35rem;
+  color: var(--color-text);
+}
+
+.usuarioInfo p {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+}
+
+.accionesConectado {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.botonComprar {
+  padding: 0.85rem 1.5rem;
+  border-radius: var(--radius-md);
+  background-color: var(--color-primary);
+  color: var(--color-text-inverse);
+  font-weight: 700;
+  text-decoration: none;
+  text-align: center;
+  transition: all var(--transition-fast);
+}
+
+.botonComprar:hover {
+  background-color: var(--color-primary-hover);
+}
+
+.botonCerrarSesion {
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-md);
+  background-color: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.botonCerrarSesion:hover {
+  background-color: #fef2f2;
+  border-color: #fecaca;
+  color: #dc2626;
+}

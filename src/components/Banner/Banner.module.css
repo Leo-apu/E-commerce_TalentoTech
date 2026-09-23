@@ -1,0 +1,179 @@
+.carrusel {
+  position: relative;
+  width: 100%;
+  height: 420px;
+  overflow: hidden;
+  background-color: var(--color-primary);
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+
+.oscurecido {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(18, 18, 20, 0.88) 0%,
+    rgba(18, 18, 20, 0.65) 45%,
+    rgba(18, 18, 20, 0.2) 100%
+  );
+}
+
+.contenidoWrapper {
+  position: relative;
+  z-index: 1;
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.tarjeta {
+  max-width: 500px;
+  color: #ffffff;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  background-color: var(--color-accent);
+  color: #fff;
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--radius-full);
+  margin-bottom: 0.9rem;
+}
+
+.titulo {
+  margin: 0 0 0.75rem;
+  font-size: 2.3rem;
+  font-weight: 800;
+  line-height: 1.18;
+  letter-spacing: -0.02em;
+}
+
+.subtitulo {
+  margin: 0 0 1.5rem;
+  font-size: 1.05rem;
+  color: #e2e8f0;
+  line-height: 1.5;
+}
+
+.botonCta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background-color: #ffffff;
+  color: var(--color-primary);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.95rem;
+  padding: 0.85rem 1.6rem;
+  border-radius: var(--radius-full);
+  transition: all var(--transition-fast);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.botonCta:hover {
+  background-color: var(--color-primary-light);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+}
+
+.flecha {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+}
+
+.flecha:hover {
+  background: rgba(255, 255, 255, 0.4);
+  transform: translateY(-50%) scale(1.08);
+}
+
+.flechaIzq { left: 1.5rem; }
+.flechaDer { right: 1.5rem; }
+
+.puntos {
+  position: absolute;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 0.25rem;
+  z-index: 5;
+}
+
+.puntoBoton {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 8px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.puntoVisual {
+  width: 8px;
+  height: 8px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.45);
+  transition: all var(--transition-fast);
+  display: block;
+}
+
+.puntoBotonActivo .puntoVisual {
+  width: 24px;
+  background: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .carrusel {
+    height: 340px;
+  }
+
+  .contenidoWrapper {
+    padding: 0 1.25rem;
+  }
+
+  .titulo {
+    font-size: 1.6rem;
+  }
+
+  .subtitulo {
+    font-size: 0.9rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .botonCta {
+    padding: 0.7rem 1.25rem;
+    font-size: 0.88rem;
+  }
+
+  .flecha {
+    display: none;
+  }
+}

@@ -1,0 +1,72 @@
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3.5rem 1.5rem;
+  min-height: calc(100vh - 200px);
+}
+
+.card {
+  background-color: var(--color-surface);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+  padding: 2.25rem;
+  width: 100%;
+  max-width: 480px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 1.75rem;
+}
+
+.logoBadge {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-color: var(--color-surface-subtle);
+  border: 1px solid var(--color-border);
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+}
+
+.titulo {
+  margin: 0 0 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--color-text);
+  letter-spacing: -0.02em;
+}
+
+.subtitulo {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+}
+
+.footerCard {
+  margin-top: 1.75rem;
+  text-align: center;
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+  border-top: 1px solid var(--color-border);
+  padding-top: 1.25rem;
+}
+
+.footerCard p {
+  margin: 0;
+}
+
+.loginLink {
+  color: var(--color-primary);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.loginLink:hover {
+  text-decoration: underline;
+}
