@@ -3,12 +3,11 @@ import mockUsuarios from "../data/usuarios.json";
 const STORAGE_KEY_USER = "currentUser";
 const STORAGE_KEY_USERS = "usuariosRegistrados";
 
-// Obtiene la lista combinada de usuarios (mock + registrados en localStorage)
 function getAllUsers() {
   try {
     const registrados =
       JSON.parse(localStorage.getItem(STORAGE_KEY_USERS)) || [];
-    // Evitar duplicados por email
+
     const map = new Map();
     mockUsuarios.forEach((u) => map.set(u.email.toLowerCase(), u));
     registrados.forEach((u) => map.set(u.email.toLowerCase(), u));
@@ -18,9 +17,7 @@ function getAllUsers() {
   }
 }
 
-// Autentica un usuario comparando con usuarios.json y usuarios locales
 export async function loginUser(email, password) {
-  // Simular pequeña latencia de red realista
   await new Promise((resolve) => setTimeout(resolve, 350));
 
   const users = getAllUsers();
@@ -38,7 +35,6 @@ export async function loginUser(email, password) {
     throw new Error("Contraseña incorrecta. Por favor verifica tus datos");
   }
 
-  // Guardar en sesión
   const sesion = {
     id: usuarioEncontrado.id,
     nombre: usuarioEncontrado.nombre,
@@ -61,7 +57,6 @@ export async function loginUser(email, password) {
   return sesion;
 }
 
-// Registra un nuevo usuario en localStorage y lo inicia como currentUser
 export async function registerUser(nuevoUsuario) {
   await new Promise((resolve) => setTimeout(resolve, 350));
 
@@ -98,14 +93,12 @@ export async function registerUser(nuevoUsuario) {
   registrados.push(usuarioFormateado);
   localStorage.setItem(STORAGE_KEY_USERS, JSON.stringify(registrados));
 
-  // Iniciar sesión con el nuevo usuario
   localStorage.setItem(STORAGE_KEY_USER, JSON.stringify(usuarioFormateado));
   window.dispatchEvent(new Event("storage"));
 
   return usuarioFormateado;
 }
 
-// Obtiene el usuario autenticado actualmente
 export function getCurrentUser() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY_USER);
@@ -115,13 +108,10 @@ export function getCurrentUser() {
   }
 }
 
-// Cierra la sesión activa
 export function logoutUser() {
   localStorage.removeItem(STORAGE_KEY_USER);
   window.dispatchEvent(new Event("storage"));
 }
-
-// Actualiza los datos del usuario en sesión y en la lista de registrados
 export function updateCurrentUser(nuevosDatos) {
   const actual = getCurrentUser();
   if (!actual) return null;

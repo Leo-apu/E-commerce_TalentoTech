@@ -51,7 +51,6 @@ function App() {
 
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
-          // Rutas Cliente
           <Route element={<Layout />}>
             <Route
               path="/"
@@ -134,7 +133,7 @@ function App() {
               }
             />
           </Route>
-          // Rutas Admin
+
           <Route element={<AdminLayout />}>
             <Route
               path="/admin"

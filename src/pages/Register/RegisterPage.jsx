@@ -12,15 +12,9 @@ import {
 import { registerUser, getCurrentUser } from "../../services/authService.js";
 import styles from "./RegisterPage.module.css";
 
-/**
- * CONTENEDOR (Smart Component)
- * Contiene toda la lógica, estados, validaciones y llamadas a servicios.
- * Pasa los datos, errores y funciones como props al formulario de presentación.
- */
 function RegisterPage() {
   const navigate = useNavigate();
 
-  // Estados del formulario
   const [formData, setFormData] = useState({
     nombre: "",
     email: "",
@@ -33,25 +27,20 @@ function RegisterPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [estadoSubida, setEstadoSubida] = useState("");
 
-  // Si ya tiene sesión activa, redirigir al perfil
   useEffect(() => {
     if (getCurrentUser()) {
       navigate("/perfil");
     }
   }, [navigate]);
 
-  // Manejo de cambios en los inputs de texto
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
-
-    // Limpia el error del campo al escribir
     if (errors[name] || errors.general) {
       setErrors((prev) => ({ ...prev, [name]: null, general: null }));
     }
   };
 
-  // Manejo de la selección de foto
   const handleFileChange = (e) => {
     const file = e.target.files?.[0];
     if (!file) return;
@@ -71,7 +60,6 @@ function RegisterPage() {
     }
   };
 
-  // Quitar la foto seleccionada
   const handleRemoveAvatar = () => {
     setAvatarFile(null);
     if (avatarPreview) {
@@ -80,11 +68,9 @@ function RegisterPage() {
     }
   };
 
-  // Envío y registro
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // 1. Validar usando validateForm.js
     const formErrors = validateRegisterForm({
       ...formData,
       avatarFile,
@@ -104,14 +90,12 @@ function RegisterPage() {
         formData.nombre.trim(),
       )}&background=0f172a&color=fff`;
 
-      // 2. Subir imagen a ImgBB solo si el usuario seleccionó un archivo
       if (avatarFile) {
         setEstadoSubida("Subiendo foto a ImgBB...");
         const imgRes = await uploadImageToImgBB(avatarFile);
         avatarUrl = imgRes.url;
       }
 
-      // 3. Registrar usuario mediante el servicio
       setEstadoSubida("Creando tu cuenta...");
       const nuevoUsuario = await registerUser({
         nombre: formData.nombre,
