@@ -42,7 +42,6 @@
   align-items: start;
 }
 
-/* Columna de imagen */
 .columnaImagen {
   position: relative;
 }
@@ -84,7 +83,6 @@
   transform: scale(1.08);
 }
 
-/* Columna de información */
 .columnaInfo {
   display: flex;
   flex-direction: column;
@@ -143,7 +141,6 @@
   line-height: 1.65;
 }
 
-/* Controles de compra */
 .accionesCompra {
   display: flex;
   align-items: center;
@@ -207,7 +204,6 @@
   box-shadow: var(--shadow-md);
 }
 
-/* Trust badges */
 .trustBadges {
   display: flex;
   flex-direction: column;
@@ -250,7 +246,6 @@
   color: var(--color-text-secondary);
 }
 
-/* Responsive */
 @media (max-width: 768px) {
   .detalleCard {
     grid-template-columns: 1fr;

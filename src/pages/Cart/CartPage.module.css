@@ -54,7 +54,6 @@
   align-items: start;
 }
 
-/* Columna de productos */
 .itemsColumna {
   display: flex;
   flex-direction: column;
@@ -199,7 +198,6 @@
   color: var(--color-primary);
 }
 
-/* Columna de resumen */
 .resumenCard {
   background-color: var(--color-surface);
   border: 1px solid var(--color-border);
@@ -307,7 +305,6 @@
   color: var(--color-text-tertiary);
 }
 
-/* Estado vacío */
 .vacioCard {
   max-width: 480px;
   margin: 5rem auto;

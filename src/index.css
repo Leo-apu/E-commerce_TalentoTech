@@ -24,14 +24,20 @@
   --color-success-soft: #ecfdf5;
 
   /* Tipografía */
-  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-sans:
+    "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, sans-serif;
 
   /* Sombras modernas en capas */
   --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.04);
   --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.05);
-  --shadow-md: 0 8px 20px -4px rgba(0, 0, 0, 0.08), 0 3px 6px -2px rgba(0, 0, 0, 0.03);
-  --shadow-lg: 0 16px 32px -6px rgba(0, 0, 0, 0.1), 0 4px 12px -2px rgba(0, 0, 0, 0.04);
-  --shadow-hover: 0 14px 28px -4px rgba(24, 24, 27, 0.12), 0 4px 8px -2px rgba(24, 24, 27, 0.04);
+  --shadow-md:
+    0 8px 20px -4px rgba(0, 0, 0, 0.08), 0 3px 6px -2px rgba(0, 0, 0, 0.03);
+  --shadow-lg:
+    0 16px 32px -6px rgba(0, 0, 0, 0.1), 0 4px 12px -2px rgba(0, 0, 0, 0.04);
+  --shadow-hover:
+    0 14px 28px -4px rgba(24, 24, 27, 0.12),
+    0 4px 8px -2px rgba(24, 24, 27, 0.04);
 
   /* Radios de borde */
   --radius-sm: 6px;
@@ -45,7 +51,9 @@
   --transition-normal: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -86,7 +94,6 @@ img {
   outline-offset: 2px;
 }
 
-/* Scrollbar estilizada sutil */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;

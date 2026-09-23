@@ -19,7 +19,6 @@
   gap: 1rem;
 }
 
-/* Logo */
 .logo {
   text-decoration: none;
   font-size: 1.3rem;
@@ -39,7 +38,6 @@
   font-size: 1.1rem;
 }
 
-/* Enlaces de navegación */
 .list {
   list-style: none;
   display: flex;
@@ -71,7 +69,6 @@
   font-weight: 700;
 }
 
-/* Acciones / Iconos */
 .iconos {
   display: flex;
   align-items: center;
@@ -117,7 +114,6 @@
   transform: scale(1.04);
 }
 
-/* Badges de notificación */
 .badge,
 .cartBadge {
   position: absolute;
@@ -145,7 +141,6 @@
   color: #fff;
 }
 
-/* Hamburguesa móvil */
 .hamburguesa {
   display: none;
   background: none;
@@ -160,7 +155,6 @@
   background-color: var(--color-surface-hover);
 }
 
-/* Responsive */
 @media (max-width: 768px) {
   .hamburguesa {
     display: flex;

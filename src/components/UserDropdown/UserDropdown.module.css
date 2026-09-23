@@ -42,14 +42,15 @@
   color: var(--color-primary);
 }
 
-/* Menú desplegable */
 .menuFlotante {
   position: absolute;
   top: calc(100% + 14px);
   right: 0;
   background-color: #ffffff;
   border-radius: 16px;
-  box-shadow: 0 12px 30px -4px rgba(0, 0, 0, 0.18), 0 4px 12px rgba(0, 0, 0, 0.08);
+  box-shadow:
+    0 12px 30px -4px rgba(0, 0, 0, 0.18),
+    0 4px 12px rgba(0, 0, 0, 0.08);
   width: 210px;
   padding: 1.15rem 1.15rem;
   z-index: 1000;
@@ -59,7 +60,6 @@
   border: 1px solid rgba(0, 0, 0, 0.06);
 }
 
-/* Puente invisible para que el hover no se pierda al mover el cursor */
 .menuFlotante::before {
   content: "";
   position: absolute;

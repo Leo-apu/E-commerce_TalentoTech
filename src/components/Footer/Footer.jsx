@@ -24,10 +24,10 @@ const equipo = [
     descripcion: "Arquitectura web y rendimiento.",
   },
   {
-    nombre: "Valentina Gómez",
-    rol: "Diseñadora UI/UX",
+    nombre: "Victorino Cruz",
+    rol: "Diseñador UI/UX",
     avatar:
-      "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "https://i.ibb.co/bgb6NrJY/Captura-de-pantalla-2023-10-20-025901.png",
     descripcion: "Experiencia e interfaz de usuario.",
   },
 ];
