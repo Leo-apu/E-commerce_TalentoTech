@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "nombre": "Control Inalámbrico Plus",
+    "precio": 43500,
+    "descripcion": "Control inalámbrico compatible con múltiples plataformas.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/control-0-6913/400/400"
+  },
+  {
+    "id": 2,
+    "nombre": "Auriculares In-Ear Pro",
+    "precio": 11500,
+    "descripcion": "Auriculares con estuche de carga, resistentes al agua.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-inear-1-7360/400/400"
+  },
+  {
+    "id": 3,
+    "nombre": "Micrófono USB Classic",
+    "precio": 40500,
+    "descripcion": "Micrófono de condensador USB, ideal para streaming y podcast.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/microfono-2-6225/400/400"
+  },
+  {
+    "id": 4,
+    "nombre": "Teclado Inalámbrico Edition",
+    "precio": 21000,
+    "descripcion": "Teclado slim inalámbrico, compatible con múltiples dispositivos.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/teclado-inalambrico-3-5926/400/400"
+  },
+  {
+    "id": 5,
+    "nombre": "Micrófono USB Max",
+    "precio": 59000,
+    "descripcion": "Micrófono de condensador USB, ideal para streaming y podcast.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/microfono-4-4555/400/400"
+  },
+  {
+    "id": 6,
+    "nombre": "Router WiFi 6 Edition",
+    "precio": 78500,
+    "descripcion": "Router de alta velocidad, cobertura extendida.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/router-5-2804/400/400"
+  },
+  {
+    "id": 7,
+    "nombre": "Impresora Multifunción Max",
+    "precio": 84000,
+    "descripcion": "Impresora, escáner y copiadora, conexión WiFi.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/impresora-6-5169/400/400"
+  },
+  {
+    "id": 8,
+    "nombre": "Power Bank 20000mAh Classic",
+    "precio": 32500,
+    "descripcion": "Batería externa portátil de alta capacidad.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/powerbank-7-7518/400/400"
+  },
+  {
+    "id": 9,
+    "nombre": "Mouse Ergonómico Classic",
+    "precio": 15500,
+    "descripcion": "Mouse inalámbrico ergonómico, ideal para largas jornadas.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/mouse-8-3594/400/400"
+  },
+  {
+    "id": 10,
+    "nombre": "Mouse Ergonómico",
+    "precio": 19500,
+    "descripcion": "Mouse inalámbrico ergonómico, ideal para largas jornadas.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/mouse-9-1041/400/400"
+  },
+  {
+    "id": 11,
+    "nombre": "Power Bank 10000mAh Premium",
+    "precio": 32500,
+    "descripcion": "Batería externa portátil de alta capacidad.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/powerbank-10-5574/400/400"
+  },
+  {
+    "id": 12,
+    "nombre": "Teclado Inalámbrico Classic",
+    "precio": 21500,
+    "descripcion": "Teclado slim inalámbrico, compatible con múltiples dispositivos.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/teclado-inalambrico-11-8318/400/400"
+  },
+  {
+    "id": 13,
+    "nombre": "Consola de Videojuegos Max",
+    "precio": 457000,
+    "descripcion": "Consola de última generación, incluye un control.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/consola-12-5948/400/400"
+  },
+  {
+    "id": 14,
+    "nombre": "Smartwatch Max",
+    "precio": 43000,
+    "descripcion": "Smartwatch con monitor de ritmo cardíaco y notificaciones.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/smartwatch-13-7788/400/400"
+  },
+  {
+    "id": 15,
+    "nombre": "Impresora Multifunción Lite",
+    "precio": 136000,
+    "descripcion": "Impresora, escáner y copiadora, conexión WiFi.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/impresora-14-8480/400/400"
+  },
+  {
+    "id": 16,
+    "nombre": "Router WiFi 6 Plus",
+    "precio": 40000,
+    "descripcion": "Router de alta velocidad, cobertura extendida.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/router-15-1164/400/400"
+  },
+  {
+    "id": 17,
+    "nombre": "Soporte para Notebook Pro",
+    "precio": 27500,
+    "descripcion": "Soporte ergonómico ajustable en altura, aluminio.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/soporte-notebook-16-3511/400/400"
+  },
+  {
+    "id": 18,
+    "nombre": "Auriculares Gamer Premium",
+    "precio": 33500,
+    "descripcion": "Auriculares con sonido envolvente 7.1 y micrófono desmontable.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-gamer-17-6597/400/400"
+  },
+  {
+    "id": 19,
+    "nombre": "Hub USB-C Edition",
+    "precio": 29500,
+    "descripcion": "Hub multipuerto USB-C, 7 en 1.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/hub-usb-18-4093/400/400"
+  },
+  {
+    "id": 20,
+    "nombre": "Teclado Mecánico Basic",
+    "precio": 61000,
+    "descripcion": "Teclado mecánico switches rojos, retroiluminado RGB.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/teclado-19-7887/400/400"
+  },
+  {
+    "id": 21,
+    "nombre": "Monitor 13'' Premium",
+    "precio": 232000,
+    "descripcion": "Monitor Full HD de 13 pulgadas, panel IPS.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/monitor-20-7974/400/400"
+  },
+  {
+    "id": 22,
+    "nombre": "Mouse Ergonómico Max",
+    "precio": 19000,
+    "descripcion": "Mouse inalámbrico ergonómico, ideal para largas jornadas.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/mouse-21-7812/400/400"
+  },
+  {
+    "id": 23,
+    "nombre": "Pendrive 64GB",
+    "precio": 11000,
+    "descripcion": "Memoria USB 3.0 de alta velocidad.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/pendrive-22-1965/400/400"
+  },
+  {
+    "id": 24,
+    "nombre": "Tablet 10'' Max",
+    "precio": 237000,
+    "descripcion": "Tablet con pantalla de 10 pulgadas, ideal para uso diario.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/tablet-23-5181/400/400"
+  },
+  {
+    "id": 25,
+    "nombre": "Silla Gamer Plus",
+    "precio": 183500,
+    "descripcion": "Silla ergonómica reclinable, reposabrazos ajustables.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/silla-gamer-24-5719/400/400"
+  },
+  {
+    "id": 26,
+    "nombre": "Teclado Mecánico Max",
+    "precio": 49000,
+    "descripcion": "Teclado mecánico switches marrones, retroiluminado RGB.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/teclado-25-1698/400/400"
+  },
+  {
+    "id": 27,
+    "nombre": "Monitor 27'' Classic",
+    "precio": 101000,
+    "descripcion": "Monitor Full HD de 27 pulgadas, panel IPS.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/monitor-26-59/400/400"
+  },
+  {
+    "id": 28,
+    "nombre": "Parlante Bluetooth Lite",
+    "precio": 25000,
+    "descripcion": "Parlante portátil resistente al agua, 30hs de autonomía.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/parlante-27-1233/400/400"
+  },
+  {
+    "id": 29,
+    "nombre": "Soporte para Notebook Lite",
+    "precio": 23500,
+    "descripcion": "Soporte ergonómico ajustable en altura, aluminio.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/soporte-notebook-28-654/400/400"
+  },
+  {
+    "id": 30,
+    "nombre": "Cargador Inalámbrico Max",
+    "precio": 10500,
+    "descripcion": "Base de carga inalámbrica rápida, compatible con Qi.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/cargador-29-2901/400/400"
+  },
+  {
+    "id": 31,
+    "nombre": "Webcam Full HD Pro",
+    "precio": 32000,
+    "descripcion": "Webcam 1080p con micrófono incorporado, ideal para streaming.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/webcam-30-635/400/400"
+  },
+  {
+    "id": 32,
+    "nombre": "Disco SSD 256GB Max",
+    "precio": 50500,
+    "descripcion": "Disco de estado sólido, alta velocidad de lectura y escritura.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/ssd-31-5379/400/400"
+  },
+  {
+    "id": 33,
+    "nombre": "Tablet 10'' Plus",
+    "precio": 268500,
+    "descripcion": "Tablet con pantalla de 10 pulgadas, ideal para uso diario.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/tablet-32-4350/400/400"
+  },
+  {
+    "id": 34,
+    "nombre": "Auriculares In-Ear Plus",
+    "precio": 14000,
+    "descripcion": "Auriculares con estuche de carga, resistentes al agua.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-inear-33-9447/400/400"
+  },
+  {
+    "id": 35,
+    "nombre": "Monitor 21'' Classic",
+    "precio": 249500,
+    "descripcion": "Monitor Full HD de 21 pulgadas, panel IPS.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/monitor-34-5144/400/400"
+  },
+  {
+    "id": 36,
+    "nombre": "Auriculares Gamer Plus",
+    "precio": 65000,
+    "descripcion": "Auriculares con sonido envolvente 7.1 y micrófono desmontable.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-gamer-35-2086/400/400"
+  },
+  {
+    "id": 37,
+    "nombre": "Monitor 21'' Premium",
+    "precio": 163000,
+    "descripcion": "Monitor Full HD de 21 pulgadas, panel IPS.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/monitor-36-3444/400/400"
+  },
+  {
+    "id": 38,
+    "nombre": "Webcam Full HD Edition",
+    "precio": 41000,
+    "descripcion": "Webcam 1080p con micrófono incorporado, ideal para streaming.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/webcam-37-1390/400/400"
+  },
+  {
+    "id": 39,
+    "nombre": "Smartwatch",
+    "precio": 44000,
+    "descripcion": "Smartwatch con monitor de ritmo cardíaco y notificaciones.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/smartwatch-38-401/400/400"
+  },
+  {
+    "id": 40,
+    "nombre": "Auriculares In-Ear Max",
+    "precio": 14000,
+    "descripcion": "Auriculares con estuche de carga, resistentes al agua.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-inear-39-3998/400/400"
+  },
+  {
+    "id": 41,
+    "nombre": "Mouse Ergonómico Pro",
+    "precio": 17000,
+    "descripcion": "Mouse inalámbrico ergonómico, ideal para largas jornadas.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/mouse-40-2185/400/400"
+  },
+  {
+    "id": 42,
+    "nombre": "Router WiFi 6",
+    "precio": 68500,
+    "descripcion": "Router de alta velocidad, cobertura extendida.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/router-41-4247/400/400"
+  },
+  {
+    "id": 43,
+    "nombre": "Silla Gamer Max",
+    "precio": 210000,
+    "descripcion": "Silla ergonómica reclinable, reposabrazos ajustables.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/silla-gamer-42-4452/400/400"
+  },
+  {
+    "id": 44,
+    "nombre": "Parlante Bluetooth Edition",
+    "precio": 22000,
+    "descripcion": "Parlante portátil resistente al agua, 24hs de autonomía.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/parlante-43-6798/400/400"
+  },
+  {
+    "id": 45,
+    "nombre": "Silla Gamer Premium",
+    "precio": 274500,
+    "descripcion": "Silla ergonómica reclinable, reposabrazos ajustables.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/silla-gamer-44-3596/400/400"
+  },
+  {
+    "id": 46,
+    "nombre": "Tablet 10'' Premium",
+    "precio": 279000,
+    "descripcion": "Tablet con pantalla de 10 pulgadas, ideal para uso diario.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/tablet-45-8752/400/400"
+  },
+  {
+    "id": 47,
+    "nombre": "Auriculares Inalámbricos Premium",
+    "precio": 23000,
+    "descripcion": "Auriculares bluetooth con cancelación de ruido y 24hs de batería.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-46-6212/400/400"
+  },
+  {
+    "id": 48,
+    "nombre": "Parlante Bluetooth Max",
+    "precio": 48000,
+    "descripcion": "Parlante portátil resistente al agua, 20hs de autonomía.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/parlante-47-318/400/400"
+  },
+  {
+    "id": 49,
+    "nombre": "Hub USB-C",
+    "precio": 21000,
+    "descripcion": "Hub multipuerto USB-C, 7 en 1.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/hub-usb-48-334/400/400"
+  },
+  {
+    "id": 50,
+    "nombre": "Consola de Videojuegos Lite",
+    "precio": 588500,
+    "descripcion": "Consola de última generación, incluye un control.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/consola-49-2750/400/400"
+  },
+  {
+    "id": 51,
+    "nombre": "Consola de Videojuegos Plus",
+    "precio": 603000,
+    "descripcion": "Consola de última generación, incluye un control.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/consola-50-3250/400/400"
+  },
+  {
+    "id": 52,
+    "nombre": "Auriculares Gamer Edition",
+    "precio": 70500,
+    "descripcion": "Auriculares con sonido envolvente 7.1 y micrófono desmontable.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-gamer-51-7533/400/400"
+  },
+  {
+    "id": 53,
+    "nombre": "Webcam Full HD Classic",
+    "precio": 30500,
+    "descripcion": "Webcam 1080p con micrófono incorporado, ideal para streaming.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/webcam-52-471/400/400"
+  },
+  {
+    "id": 54,
+    "nombre": "Disco SSD 512GB Edition",
+    "precio": 60500,
+    "descripcion": "Disco de estado sólido, alta velocidad de lectura y escritura.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/ssd-53-167/400/400"
+  },
+  {
+    "id": 55,
+    "nombre": "Pendrive 256GB Max",
+    "precio": 12000,
+    "descripcion": "Memoria USB 3.0 de alta velocidad.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/pendrive-54-283/400/400"
+  },
+  {
+    "id": 56,
+    "nombre": "Teclado Mecánico Classic",
+    "precio": 57000,
+    "descripcion": "Teclado mecánico switches negros, retroiluminado RGB.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/teclado-55-9018/400/400"
+  },
+  {
+    "id": 57,
+    "nombre": "Parlante Bluetooth Plus",
+    "precio": 24000,
+    "descripcion": "Parlante portátil resistente al agua, 30hs de autonomía.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/parlante-56-3181/400/400"
+  },
+  {
+    "id": 58,
+    "nombre": "Teclado Mecánico Pro",
+    "precio": 44000,
+    "descripcion": "Teclado mecánico switches azules, retroiluminado RGB.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/teclado-57-8562/400/400"
+  },
+  {
+    "id": 59,
+    "nombre": "Power Bank 10000mAh Basic",
+    "precio": 18500,
+    "descripcion": "Batería externa portátil de alta capacidad.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/powerbank-58-3458/400/400"
+  },
+  {
+    "id": 60,
+    "nombre": "Soporte para Notebook Basic",
+    "precio": 20000,
+    "descripcion": "Soporte ergonómico ajustable en altura, aluminio.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/soporte-notebook-59-9664/400/400"
+  },
+  {
+    "id": 61,
+    "nombre": "Auriculares Gamer Max",
+    "precio": 40500,
+    "descripcion": "Auriculares con sonido envolvente 7.1 y micrófono desmontable.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-gamer-60-5040/400/400"
+  },
+  {
+    "id": 62,
+    "nombre": "Consola de Videojuegos Classic",
+    "precio": 624000,
+    "descripcion": "Consola de última generación, incluye un control.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/consola-61-1318/400/400"
+  },
+  {
+    "id": 63,
+    "nombre": "Consola de Videojuegos Pro",
+    "precio": 744000,
+    "descripcion": "Consola de última generación, incluye un control.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/consola-62-4416/400/400"
+  },
+  {
+    "id": 64,
+    "nombre": "Micrófono USB Pro",
+    "precio": 75500,
+    "descripcion": "Micrófono de condensador USB, ideal para streaming y podcast.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/microfono-63-8057/400/400"
+  },
+  {
+    "id": 65,
+    "nombre": "Smartwatch Premium",
+    "precio": 67500,
+    "descripcion": "Smartwatch con monitor de ritmo cardíaco y notificaciones.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/smartwatch-64-19/400/400"
+  },
+  {
+    "id": 66,
+    "nombre": "Auriculares Gamer",
+    "precio": 33000,
+    "descripcion": "Auriculares con sonido envolvente 7.1 y micrófono desmontable.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/auriculares-gamer-65-3336/400/400"
+  },
+  {
+    "id": 67,
+    "nombre": "Tablet 10''",
+    "precio": 160500,
+    "descripcion": "Tablet con pantalla de 10 pulgadas, ideal para uso diario.",
+    "categoria": "tecnologia",
+    "imagen": "https://picsum.photos/seed/tablet-66-5092/400/400"
+  },
+  {
+    "id": 68,
+    "nombre": "Calza Deportiva Pro",
+    "precio": 19500,
+    "descripcion": "Calza elastizada de compresión, ideal para training.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/calza-0-4782/400/400"
+  },
+  {
+    "id": 69,
+    "nombre": "Musculosa Deportiva Classic",
+    "precio": 12500,
+    "descripcion": "Musculosa técnica transpirable para entrenamiento.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/musculosa-1-8328/400/400"
+  },
+  {
+    "id": 70,
+    "nombre": "Camisa Cuadrillé Lite",
+    "precio": 26000,
+    "descripcion": "Camisa a cuadros de algodón, manga larga.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camisa-cuadrille-2-9502/400/400"
+  },
+  {
+    "id": 71,
+    "nombre": "Championes de Lona Basic",
+    "precio": 39500,
+    "descripcion": "Zapatillas de lona clásicas, estilo urbano.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/championes-lona-3-5273/400/400"
+  },
+  {
+    "id": 72,
+    "nombre": "Pantalón Cargo Max",
+    "precio": 32000,
+    "descripcion": "Pantalón cargo con múltiples bolsillos, algodón resistente.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/pantalon-cargo-4-6326/400/400"
+  },
+  {
+    "id": 73,
+    "nombre": "Championes de Lona Lite",
+    "precio": 25000,
+    "descripcion": "Zapatillas de lona clásicas, estilo urbano.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/championes-lona-5-2362/400/400"
+  },
+  {
+    "id": 74,
+    "nombre": "Sweater de Lana Lite",
+    "precio": 30000,
+    "descripcion": "Sweater tejido, cuello redondo, abrigado.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/sweater-6-7995/400/400"
+  },
+  {
+    "id": 75,
+    "nombre": "Buzo Canguro Plus",
+    "precio": 23500,
+    "descripcion": "Buzo con capucha y bolsillo canguro, frisa interior.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/buzo-canguro-7-7057/400/400"
+  },
+  {
+    "id": 76,
+    "nombre": "Campera de Jean Max",
+    "precio": 44500,
+    "descripcion": "Campera de jean clásica, corte regular.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/campera-jean-8-3946/400/400"
+  },
+  {
+    "id": 77,
+    "nombre": "Falda Midi Lite",
+    "precio": 25500,
+    "descripcion": "Falda midi de tiro alto, tela con caída.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/falda-9-8956/400/400"
+  },
+  {
+    "id": 78,
+    "nombre": "Campera Inflable Plus",
+    "precio": 41000,
+    "descripcion": "Campera abrigada con relleno sintético, resistente al viento.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/campera-inflable-10-6303/400/400"
+  },
+  {
+    "id": 79,
+    "nombre": "Falda Midi Plus",
+    "precio": 19000,
+    "descripcion": "Falda midi de tiro alto, tela con caída.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/falda-11-133/400/400"
+  },
+  {
+    "id": 80,
+    "nombre": "Camperón Impermeable Pro",
+    "precio": 56000,
+    "descripcion": "Camperón con capucha, resistente al agua.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camperon-12-2241/400/400"
+  },
+  {
+    "id": 81,
+    "nombre": "Ojotas Plus",
+    "precio": 6500,
+    "descripcion": "Ojotas de goma, plantilla anatómica.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/ojotas-13-4836/400/400"
+  },
+  {
+    "id": 82,
+    "nombre": "Zapatillas Running Premium",
+    "precio": 71000,
+    "descripcion": "Zapatillas con amortiguación para running, transpirables.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/zapatillas-running-14-7895/400/400"
+  },
+  {
+    "id": 83,
+    "nombre": "Zapatillas Urbanas Edition",
+    "precio": 80500,
+    "descripcion": "Zapatillas urbanas cómodas para uso diario.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/zapatillas-urbanas-15-5993/400/400"
+  },
+  {
+    "id": 84,
+    "nombre": "Remera Estampada Premium",
+    "precio": 13500,
+    "descripcion": "Remera con estampa gráfica, algodón premium.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-estampada-16-6243/400/400"
+  },
+  {
+    "id": 85,
+    "nombre": "Ojotas Edition",
+    "precio": 11000,
+    "descripcion": "Ojotas de goma, plantilla anatómica.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/ojotas-17-7607/400/400"
+  },
+  {
+    "id": 86,
+    "nombre": "Pollera Denim Classic",
+    "precio": 17500,
+    "descripcion": "Pollera de jean con botones frontales.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/pollera-denim-18-3847/400/400"
+  },
+  {
+    "id": 87,
+    "nombre": "Calza Deportiva Lite",
+    "precio": 18500,
+    "descripcion": "Calza elastizada de compresión, ideal para training.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/calza-19-1623/400/400"
+  },
+  {
+    "id": 88,
+    "nombre": "Falda Midi Premium",
+    "precio": 25500,
+    "descripcion": "Falda midi de tiro alto, tela con caída.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/falda-20-6019/400/400"
+  },
+  {
+    "id": 89,
+    "nombre": "Calza Deportiva Edition",
+    "precio": 22000,
+    "descripcion": "Calza elastizada de compresión, ideal para training.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/calza-21-9784/400/400"
+  },
+  {
+    "id": 90,
+    "nombre": "Remera Oversize Pro",
+    "precio": 13500,
+    "descripcion": "Remera de algodón 100%, corte oversize, unisex.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-oversize-22-5384/400/400"
+  },
+  {
+    "id": 91,
+    "nombre": "Traje de Baño Lite",
+    "precio": 10500,
+    "descripcion": "Malla deportiva de secado rápido.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/traje-de-bano-23-423/400/400"
+  },
+  {
+    "id": 92,
+    "nombre": "Campera de Jean Pro",
+    "precio": 38000,
+    "descripcion": "Campera de jean clásica, corte regular.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/campera-jean-24-8620/400/400"
+  },
+  {
+    "id": 93,
+    "nombre": "Camisa Cuadrillé",
+    "precio": 24500,
+    "descripcion": "Camisa a cuadros de algodón, manga larga.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camisa-cuadrille-25-7268/400/400"
+  },
+  {
+    "id": 94,
+    "nombre": "Remera Estampada Plus",
+    "precio": 12000,
+    "descripcion": "Remera con estampa gráfica, algodón premium.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-estampada-26-9788/400/400"
+  },
+  {
+    "id": 95,
+    "nombre": "Sweater de Lana Basic",
+    "precio": 30000,
+    "descripcion": "Sweater tejido, cuello redondo, abrigado.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/sweater-27-6993/400/400"
+  },
+  {
+    "id": 96,
+    "nombre": "Zapatillas Running Classic",
+    "precio": 102500,
+    "descripcion": "Zapatillas con amortiguación para running, transpirables.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/zapatillas-running-28-6106/400/400"
+  },
+  {
+    "id": 97,
+    "nombre": "Campera de Jean",
+    "precio": 34000,
+    "descripcion": "Campera de jean clásica, corte regular.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/campera-jean-29-9838/400/400"
+  },
+  {
+    "id": 98,
+    "nombre": "Buzo Canguro Classic",
+    "precio": 18000,
+    "descripcion": "Buzo con capucha y bolsillo canguro, frisa interior.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/buzo-canguro-30-2956/400/400"
+  },
+  {
+    "id": 99,
+    "nombre": "Short Deportivo Classic",
+    "precio": 10000,
+    "descripcion": "Short liviano de secado rápido, ideal para entrenar.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/short-deportivo-31-503/400/400"
+  },
+  {
+    "id": 100,
+    "nombre": "Remera Estampada",
+    "precio": 15000,
+    "descripcion": "Remera con estampa gráfica, algodón premium.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-estampada-32-9300/400/400"
+  },
+  {
+    "id": 101,
+    "nombre": "Chaleco Acolchado Plus",
+    "precio": 35500,
+    "descripcion": "Chaleco liviano con relleno térmico.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/chaleco-33-7958/400/400"
+  },
+  {
+    "id": 102,
+    "nombre": "Chaleco Acolchado Basic",
+    "precio": 37500,
+    "descripcion": "Chaleco liviano con relleno térmico.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/chaleco-34-8634/400/400"
+  },
+  {
+    "id": 103,
+    "nombre": "Championes de Lona Classic",
+    "precio": 29000,
+    "descripcion": "Zapatillas de lona clásicas, estilo urbano.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/championes-lona-35-4187/400/400"
+  },
+  {
+    "id": 104,
+    "nombre": "Musculosa Deportiva",
+    "precio": 14500,
+    "descripcion": "Musculosa técnica transpirable para entrenamiento.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/musculosa-36-5130/400/400"
+  },
+  {
+    "id": 105,
+    "nombre": "Camperón Impermeable Premium",
+    "precio": 69000,
+    "descripcion": "Camperón con capucha, resistente al agua.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camperon-37-5929/400/400"
+  },
+  {
+    "id": 106,
+    "nombre": "Camisa Cuadrillé Edition",
+    "precio": 22500,
+    "descripcion": "Camisa a cuadros de algodón, manga larga.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camisa-cuadrille-38-2420/400/400"
+  },
+  {
+    "id": 107,
+    "nombre": "Jean Recto Plus",
+    "precio": 36500,
+    "descripcion": "Jean de corte recto, tiro medio, elastizado.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/jean-recto-39-9237/400/400"
+  },
+  {
+    "id": 108,
+    "nombre": "Traje de Baño Basic",
+    "precio": 13000,
+    "descripcion": "Malla deportiva de secado rápido.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/traje-de-bano-40-9690/400/400"
+  },
+  {
+    "id": 109,
+    "nombre": "Remera Básica Edition",
+    "precio": 7500,
+    "descripcion": "Remera lisa de algodón peinado, varios colores.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-basica-41-1480/400/400"
+  },
+  {
+    "id": 110,
+    "nombre": "Chaleco Acolchado",
+    "precio": 32000,
+    "descripcion": "Chaleco liviano con relleno térmico.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/chaleco-42-9913/400/400"
+  },
+  {
+    "id": 111,
+    "nombre": "Falda Midi",
+    "precio": 15500,
+    "descripcion": "Falda midi de tiro alto, tela con caída.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/falda-43-4060/400/400"
+  },
+  {
+    "id": 112,
+    "nombre": "Pollera Denim Basic",
+    "precio": 28500,
+    "descripcion": "Pollera de jean con botones frontales.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/pollera-denim-44-5483/400/400"
+  },
+  {
+    "id": 113,
+    "nombre": "Remera Estampada Edition",
+    "precio": 11500,
+    "descripcion": "Remera con estampa gráfica, algodón premium.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-estampada-45-5083/400/400"
+  },
+  {
+    "id": 114,
+    "nombre": "Ojotas Premium",
+    "precio": 11000,
+    "descripcion": "Ojotas de goma, plantilla anatómica.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/ojotas-46-6938/400/400"
+  },
+  {
+    "id": 115,
+    "nombre": "Musculosa Deportiva Edition",
+    "precio": 9000,
+    "descripcion": "Musculosa técnica transpirable para entrenamiento.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/musculosa-47-2539/400/400"
+  },
+  {
+    "id": 116,
+    "nombre": "Remera Estampada Classic",
+    "precio": 10000,
+    "descripcion": "Remera con estampa gráfica, algodón premium.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-estampada-48-2713/400/400"
+  },
+  {
+    "id": 117,
+    "nombre": "Camisa Cuadrillé Basic",
+    "precio": 20500,
+    "descripcion": "Camisa a cuadros de algodón, manga larga.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camisa-cuadrille-49-8750/400/400"
+  },
+  {
+    "id": 118,
+    "nombre": "Jean Recto Classic",
+    "precio": 27000,
+    "descripcion": "Jean de corte recto, tiro medio, elastizado.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/jean-recto-50-3272/400/400"
+  },
+  {
+    "id": 119,
+    "nombre": "Chaleco Acolchado Lite",
+    "precio": 31000,
+    "descripcion": "Chaleco liviano con relleno térmico.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/chaleco-51-1375/400/400"
+  },
+  {
+    "id": 120,
+    "nombre": "Remera Oversize Premium",
+    "precio": 10000,
+    "descripcion": "Remera de algodón 100%, corte oversize, unisex.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-oversize-52-5222/400/400"
+  },
+  {
+    "id": 121,
+    "nombre": "Buzo Canguro Edition",
+    "precio": 25000,
+    "descripcion": "Buzo con capucha y bolsillo canguro, frisa interior.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/buzo-canguro-53-87/400/400"
+  },
+  {
+    "id": 122,
+    "nombre": "Remera Estampada Pro",
+    "precio": 9500,
+    "descripcion": "Remera con estampa gráfica, algodón premium.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/remera-estampada-54-783/400/400"
+  },
+  {
+    "id": 123,
+    "nombre": "Jean Recto Premium",
+    "precio": 26500,
+    "descripcion": "Jean de corte recto, tiro medio, elastizado.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/jean-recto-55-4773/400/400"
+  },
+  {
+    "id": 124,
+    "nombre": "Sweater de Lana Pro",
+    "precio": 36500,
+    "descripcion": "Sweater tejido, cuello redondo, abrigado.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/sweater-56-5909/400/400"
+  },
+  {
+    "id": 125,
+    "nombre": "Short Deportivo Pro",
+    "precio": 8500,
+    "descripcion": "Short liviano de secado rápido, ideal para entrenar.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/short-deportivo-57-5773/400/400"
+  },
+  {
+    "id": 126,
+    "nombre": "Calza Deportiva Basic",
+    "precio": 13500,
+    "descripcion": "Calza elastizada de compresión, ideal para training.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/calza-58-6030/400/400"
+  },
+  {
+    "id": 127,
+    "nombre": "Sweater de Lana Premium",
+    "precio": 36500,
+    "descripcion": "Sweater tejido, cuello redondo, abrigado.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/sweater-59-4370/400/400"
+  },
+  {
+    "id": 128,
+    "nombre": "Vestido Casual Pro",
+    "precio": 33500,
+    "descripcion": "Vestido liviano de tela fresca, ideal para uso diario.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/vestido-60-8407/400/400"
+  },
+  {
+    "id": 129,
+    "nombre": "Traje de Baño Edition",
+    "precio": 16000,
+    "descripcion": "Malla deportiva de secado rápido.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/traje-de-bano-61-1260/400/400"
+  },
+  {
+    "id": 130,
+    "nombre": "Camperón Impermeable Lite",
+    "precio": 71500,
+    "descripcion": "Camperón con capucha, resistente al agua.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camperon-62-8483/400/400"
+  },
+  {
+    "id": 131,
+    "nombre": "Camisa Casual",
+    "precio": 21000,
+    "descripcion": "Camisa de algodón manga larga, corte slim.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/camisa-63-2010/400/400"
+  },
+  {
+    "id": 132,
+    "nombre": "Campera de Jean Plus",
+    "precio": 42500,
+    "descripcion": "Campera de jean clásica, corte regular.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/campera-jean-64-8883/400/400"
+  },
+  {
+    "id": 133,
+    "nombre": "Zapatillas Urbanas Classic",
+    "precio": 76500,
+    "descripcion": "Zapatillas urbanas cómodas para uso diario.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/zapatillas-urbanas-65-431/400/400"
+  },
+  {
+    "id": 134,
+    "nombre": "Zapatillas Deportivas",
+    "precio": 65000,
+    "descripcion": "Zapatillas deportivas multipropósito, suela antideslizante.",
+    "categoria": "indumentaria",
+    "imagen": "https://picsum.photos/seed/zapatillas-deportivas-66-7843/400/400"
+  },
+  {
+    "id": 135,
+    "nombre": "Portadocumentos Premium",
+    "precio": 10000,
+    "descripcion": "Portadocumentos de cuero ecológico, cierre con broche.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/portadocumentos-0-9033/400/400"
+  },
+  {
+    "id": 136,
+    "nombre": "Media Térmica Lite",
+    "precio": 6000,
+    "descripcion": "Pack de medias térmicas para uso invernal.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/medias-termicas-1-2654/400/400"
+  },
+  {
+    "id": 137,
+    "nombre": "Paraguas Automático Max",
+    "precio": 13500,
+    "descripcion": "Paraguas plegable automático, resistente al viento.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/paraguas-2-8741/400/400"
+  },
+  {
+    "id": 138,
+    "nombre": "Riñonera",
+    "precio": 19000,
+    "descripcion": "Riñonera resistente al agua, varios compartimentos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/rinonera-3-675/400/400"
+  },
+  {
+    "id": 139,
+    "nombre": "Mochila Notebook Plus",
+    "precio": 45000,
+    "descripcion": "Mochila con compartimento acolchado para notebook de hasta 27''.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mochila-4-8939/400/400"
+  },
+  {
+    "id": 140,
+    "nombre": "Guantes Térmicos Classic",
+    "precio": 14000,
+    "descripcion": "Guantes abrigados con interior polar.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/guantes-5-6810/400/400"
+  },
+  {
+    "id": 141,
+    "nombre": "Collar Minimalista Basic",
+    "precio": 12000,
+    "descripcion": "Collar de acero inoxidable, diseño minimalista.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/collar-6-2143/400/400"
+  },
+  {
+    "id": 142,
+    "nombre": "Sombrero de Sol Edition",
+    "precio": 11000,
+    "descripcion": "Sombrero de ala ancha, protección UV.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/sombrero-7-1587/400/400"
+  },
+  {
+    "id": 143,
+    "nombre": "Gorra Deportiva Classic",
+    "precio": 9000,
+    "descripcion": "Gorra ajustable, ideal para actividades al aire libre.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/gorra-8-2611/400/400"
+  },
+  {
+    "id": 144,
+    "nombre": "Collar Minimalista",
+    "precio": 9500,
+    "descripcion": "Collar de acero inoxidable, diseño minimalista.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/collar-9-3525/400/400"
+  },
+  {
+    "id": 145,
+    "nombre": "Correa para Reloj Edition",
+    "precio": 7000,
+    "descripcion": "Correa de repuesto de silicona, ajustable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/correa-reloj-10-2195/400/400"
+  },
+  {
+    "id": 146,
+    "nombre": "Gorro de Lana Edition",
+    "precio": 10000,
+    "descripcion": "Gorro tejido para invierno, talle único.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/gorro-lana-11-4729/400/400"
+  },
+  {
+    "id": 147,
+    "nombre": "Riñonera Premium",
+    "precio": 15000,
+    "descripcion": "Riñonera resistente al agua, varios compartimentos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/rinonera-12-9140/400/400"
+  },
+  {
+    "id": 148,
+    "nombre": "Botella Térmica Lite",
+    "precio": 17500,
+    "descripcion": "Botella térmica de acero inoxidable, mantiene temperatura 12hs.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/botella-termica-13-8509/400/400"
+  },
+  {
+    "id": 149,
+    "nombre": "Pulsera de Cuero Lite",
+    "precio": 8500,
+    "descripcion": "Pulsera artesanal de cuero trenzado.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/pulsera-14-5512/400/400"
+  },
+  {
+    "id": 150,
+    "nombre": "Portadocumentos",
+    "precio": 14500,
+    "descripcion": "Portadocumentos de cuero ecológico, cierre con broche.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/portadocumentos-15-9564/400/400"
+  },
+  {
+    "id": 151,
+    "nombre": "Guantes Térmicos Pro",
+    "precio": 9500,
+    "descripcion": "Guantes abrigados con interior polar.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/guantes-16-8590/400/400"
+  },
+  {
+    "id": 152,
+    "nombre": "Media Térmica Premium",
+    "precio": 8000,
+    "descripcion": "Pack de medias térmicas para uso invernal.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/medias-termicas-17-2482/400/400"
+  },
+  {
+    "id": 153,
+    "nombre": "Cartera de Mano Max",
+    "precio": 33000,
+    "descripcion": "Cartera de mano con compartimentos internos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/cartera-18-8610/400/400"
+  },
+  {
+    "id": 154,
+    "nombre": "Mochila Urbana Edition",
+    "precio": 39500,
+    "descripcion": "Mochila casual con múltiples bolsillos, impermeable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mochila-urbana-19-7933/400/400"
+  },
+  {
+    "id": 155,
+    "nombre": "Reloj Analógico Max",
+    "precio": 50000,
+    "descripcion": "Reloj de pulsera con correa de cuero, resistente al agua.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/reloj-analogico-20-7862/400/400"
+  },
+  {
+    "id": 156,
+    "nombre": "Botella Térmica",
+    "precio": 10500,
+    "descripcion": "Botella térmica de acero inoxidable, mantiene temperatura 12hs.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/botella-termica-21-4713/400/400"
+  },
+  {
+    "id": 157,
+    "nombre": "Mate con Bombilla Plus",
+    "precio": 18500,
+    "descripcion": "Mate de calabaza con bombilla de acero inoxidable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mate-22-4451/400/400"
+  },
+  {
+    "id": 158,
+    "nombre": "Cinturón de Cuero Plus",
+    "precio": 14500,
+    "descripcion": "Cinturón de cuero con hebilla metálica.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/cinturon-23-5412/400/400"
+  },
+  {
+    "id": 159,
+    "nombre": "Mate con Bombilla Basic",
+    "precio": 13000,
+    "descripcion": "Mate de calabaza con bombilla de acero inoxidable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mate-24-4707/400/400"
+  },
+  {
+    "id": 160,
+    "nombre": "Paraguas Automático Classic",
+    "precio": 11500,
+    "descripcion": "Paraguas plegable automático, resistente al viento.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/paraguas-25-6847/400/400"
+  },
+  {
+    "id": 161,
+    "nombre": "Lentes de Sol Pro",
+    "precio": 25500,
+    "descripcion": "Lentes de sol con protección UV400.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/lentes-sol-26-4663/400/400"
+  },
+  {
+    "id": 162,
+    "nombre": "Pulsera de Cuero",
+    "precio": 5000,
+    "descripcion": "Pulsera artesanal de cuero trenzado.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/pulsera-27-7519/400/400"
+  },
+  {
+    "id": 163,
+    "nombre": "Media Térmica Classic",
+    "precio": 6000,
+    "descripcion": "Pack de medias térmicas para uso invernal.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/medias-termicas-28-6644/400/400"
+  },
+  {
+    "id": 164,
+    "nombre": "Cartera de Mano",
+    "precio": 25500,
+    "descripcion": "Cartera de mano con compartimentos internos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/cartera-29-112/400/400"
+  },
+  {
+    "id": 165,
+    "nombre": "Gorro de Lana Premium",
+    "precio": 8000,
+    "descripcion": "Gorro tejido para invierno, talle único.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/gorro-lana-30-5891/400/400"
+  },
+  {
+    "id": 166,
+    "nombre": "Mate con Bombilla Max",
+    "precio": 11500,
+    "descripcion": "Mate de calabaza con bombilla de acero inoxidable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mate-31-4834/400/400"
+  },
+  {
+    "id": 167,
+    "nombre": "Botella Térmica Max",
+    "precio": 21000,
+    "descripcion": "Botella térmica de acero inoxidable, mantiene temperatura 12hs.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/botella-termica-32-8999/400/400"
+  },
+  {
+    "id": 168,
+    "nombre": "Riñonera Plus",
+    "precio": 11500,
+    "descripcion": "Riñonera resistente al agua, varios compartimentos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/rinonera-33-3366/400/400"
+  },
+  {
+    "id": 169,
+    "nombre": "Funda para Celular Basic",
+    "precio": 5000,
+    "descripcion": "Funda protectora antigolpes, varios modelos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/funda-celular-34-6942/400/400"
+  },
+  {
+    "id": 170,
+    "nombre": "Botella Térmica Plus",
+    "precio": 20000,
+    "descripcion": "Botella térmica de acero inoxidable, mantiene temperatura 12hs.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/botella-termica-35-6888/400/400"
+  },
+  {
+    "id": 171,
+    "nombre": "Botella Térmica Premium",
+    "precio": 18500,
+    "descripcion": "Botella térmica de acero inoxidable, mantiene temperatura 12hs.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/botella-termica-36-6440/400/400"
+  },
+  {
+    "id": 172,
+    "nombre": "Portadocumentos Lite",
+    "precio": 14000,
+    "descripcion": "Portadocumentos de cuero ecológico, cierre con broche.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/portadocumentos-37-3763/400/400"
+  },
+  {
+    "id": 173,
+    "nombre": "Bufanda de Lana Basic",
+    "precio": 11500,
+    "descripcion": "Bufanda tejida, abrigada y suave.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/bufanda-38-3377/400/400"
+  },
+  {
+    "id": 174,
+    "nombre": "Pulsera de Cuero Max",
+    "precio": 8500,
+    "descripcion": "Pulsera artesanal de cuero trenzado.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/pulsera-39-9797/400/400"
+  },
+  {
+    "id": 175,
+    "nombre": "Funda para Celular Lite",
+    "precio": 11000,
+    "descripcion": "Funda protectora antigolpes, varios modelos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/funda-celular-40-8593/400/400"
+  },
+  {
+    "id": 176,
+    "nombre": "Paraguas Automático Premium",
+    "precio": 13500,
+    "descripcion": "Paraguas plegable automático, resistente al viento.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/paraguas-41-2366/400/400"
+  },
+  {
+    "id": 177,
+    "nombre": "Pulsera de Cuero Pro",
+    "precio": 6500,
+    "descripcion": "Pulsera artesanal de cuero trenzado.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/pulsera-42-1296/400/400"
+  },
+  {
+    "id": 178,
+    "nombre": "Pulsera de Cuero Edition",
+    "precio": 4500,
+    "descripcion": "Pulsera artesanal de cuero trenzado.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/pulsera-43-3083/400/400"
+  },
+  {
+    "id": 179,
+    "nombre": "Sombrero de Sol",
+    "precio": 10500,
+    "descripcion": "Sombrero de ala ancha, protección UV.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/sombrero-44-7847/400/400"
+  },
+  {
+    "id": 180,
+    "nombre": "Bufanda de Lana Max",
+    "precio": 12500,
+    "descripcion": "Bufanda tejida, abrigada y suave.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/bufanda-45-4286/400/400"
+  },
+  {
+    "id": 181,
+    "nombre": "Cartera de Mano Pro",
+    "precio": 27000,
+    "descripcion": "Cartera de mano con compartimentos internos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/cartera-46-2498/400/400"
+  },
+  {
+    "id": 182,
+    "nombre": "Reloj Analógico Edition",
+    "precio": 46000,
+    "descripcion": "Reloj de pulsera con correa de cuero, resistente al agua.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/reloj-analogico-47-8006/400/400"
+  },
+  {
+    "id": 183,
+    "nombre": "Cinta para Cabello Basic",
+    "precio": 5000,
+    "descripcion": "Set de cintas elásticas para el cabello.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/cinta-cabello-48-963/400/400"
+  },
+  {
+    "id": 184,
+    "nombre": "Portadocumentos Pro",
+    "precio": 8000,
+    "descripcion": "Portadocumentos de cuero ecológico, cierre con broche.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/portadocumentos-49-3584/400/400"
+  },
+  {
+    "id": 185,
+    "nombre": "Portadocumentos Basic",
+    "precio": 14500,
+    "descripcion": "Portadocumentos de cuero ecológico, cierre con broche.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/portadocumentos-50-195/400/400"
+  },
+  {
+    "id": 186,
+    "nombre": "Mochila Notebook",
+    "precio": 30500,
+    "descripcion": "Mochila con compartimento acolchado para notebook de hasta 15.6''.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mochila-51-1754/400/400"
+  },
+  {
+    "id": 187,
+    "nombre": "Billetera de Cuero",
+    "precio": 17500,
+    "descripcion": "Billetera de cuero genuino, varios compartimentos.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/billetera-52-6653/400/400"
+  },
+  {
+    "id": 188,
+    "nombre": "Mochila Urbana Premium",
+    "precio": 33500,
+    "descripcion": "Mochila casual con múltiples bolsillos, impermeable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mochila-urbana-53-5428/400/400"
+  },
+  {
+    "id": 189,
+    "nombre": "Correa para Reloj Plus",
+    "precio": 8000,
+    "descripcion": "Correa de repuesto de silicona, ajustable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/correa-reloj-54-9233/400/400"
+  },
+  {
+    "id": 190,
+    "nombre": "Termo 1L Pro",
+    "precio": 20000,
+    "descripcion": "Termo de acero inoxidable, pico cebador.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/termo-55-9240/400/400"
+  },
+  {
+    "id": 191,
+    "nombre": "Bufanda de Lana Premium",
+    "precio": 8500,
+    "descripcion": "Bufanda tejida, abrigada y suave.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/bufanda-56-1601/400/400"
+  },
+  {
+    "id": 192,
+    "nombre": "Pulsera de Cuero Basic",
+    "precio": 4500,
+    "descripcion": "Pulsera artesanal de cuero trenzado.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/pulsera-57-4840/400/400"
+  },
+  {
+    "id": 193,
+    "nombre": "Bufanda de Lana Plus",
+    "precio": 9500,
+    "descripcion": "Bufanda tejida, abrigada y suave.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/bufanda-58-1500/400/400"
+  },
+  {
+    "id": 194,
+    "nombre": "Mochila Notebook Classic",
+    "precio": 42500,
+    "descripcion": "Mochila con compartimento acolchado para notebook de hasta 13''.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mochila-59-9089/400/400"
+  },
+  {
+    "id": 195,
+    "nombre": "Lentes de Sol Lite",
+    "precio": 28000,
+    "descripcion": "Lentes de sol con protección UV400.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/lentes-sol-60-4912/400/400"
+  },
+  {
+    "id": 196,
+    "nombre": "Collar Minimalista Plus",
+    "precio": 7500,
+    "descripcion": "Collar de acero inoxidable, diseño minimalista.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/collar-61-2220/400/400"
+  },
+  {
+    "id": 197,
+    "nombre": "Guantes Térmicos Edition",
+    "precio": 10500,
+    "descripcion": "Guantes abrigados con interior polar.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/guantes-62-5340/400/400"
+  },
+  {
+    "id": 198,
+    "nombre": "Mochila Urbana Classic",
+    "precio": 34500,
+    "descripcion": "Mochila casual con múltiples bolsillos, impermeable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mochila-urbana-63-3435/400/400"
+  },
+  {
+    "id": 199,
+    "nombre": "Pulsera de Cuero Classic",
+    "precio": 6000,
+    "descripcion": "Pulsera artesanal de cuero trenzado.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/pulsera-64-2526/400/400"
+  },
+  {
+    "id": 200,
+    "nombre": "Mate con Bombilla Premium",
+    "precio": 18500,
+    "descripcion": "Mate de calabaza con bombilla de acero inoxidable.",
+    "categoria": "accesorios",
+    "imagen": "https://picsum.photos/seed/mate-65-603/400/400"
+  }
+]

@@ -1,0 +1,267 @@
+.footer {
+  background-color: var(--color-primary);
+  color: #a1a1aa;
+  margin-top: 4rem;
+  border-top: 1px solid #27272a;
+}
+
+.trustBar {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  border-bottom: 1px solid #27272a;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.trustItem {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: #e4e4e7;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.equipoSeccion {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 2rem;
+  border-bottom: 1px solid #27272a;
+}
+
+.equipoTitulo {
+  margin: 0 0 1.5rem;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 800;
+}
+
+.equipoGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.personaCard {
+  background-color: #27272a;
+  border: 1px solid #3f3f46;
+  border-radius: var(--radius-lg);
+  padding: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  transition: transform var(--transition-fast), border-color var(--transition-fast);
+}
+
+.personaCard:hover {
+  transform: translateY(-2px);
+  border-color: #52525b;
+}
+
+.personaAvatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #52525b;
+  flex-shrink: 0;
+}
+
+.personaInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.personaNombre {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.personaRol {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  margin-top: 0.1rem;
+}
+
+.personaDesc {
+  margin: 0.35rem 0 0;
+  font-size: 0.78rem;
+  color: #a1a1aa;
+  line-height: 1.35;
+}
+
+.contenido {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 2rem;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  gap: 2.5rem;
+}
+
+.columnaMarca {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.logo {
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.logoBadge {
+  background-color: #27272a;
+  color: #ffffff;
+  padding: 0.15rem 0.45rem;
+  border-radius: var(--radius-sm);
+  font-size: 1.05rem;
+  border: 1px solid #3f3f46;
+}
+
+.descripcion {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: #a1a1aa;
+}
+
+.columna {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.titulo {
+  color: #ffffff;
+  margin: 0 0 0.25rem;
+  font-size: 0.88rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+}
+
+.lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.link {
+  color: #a1a1aa;
+  text-decoration: none;
+  font-size: 0.88rem;
+  transition: color var(--transition-fast);
+}
+
+.link:hover {
+  color: #ffffff;
+}
+
+.texto {
+  font-size: 0.88rem;
+  color: #a1a1aa;
+}
+
+.redes {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.iconoRedes {
+  color: #d4d4d8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid #3f3f46;
+  border-radius: 50%;
+  transition: all var(--transition-fast);
+  background-color: #27272a;
+}
+
+.iconoRedes:hover {
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: #3f3f46;
+  transform: translateY(-2px);
+}
+
+.mediosPago {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 0.75rem;
+}
+
+.pagoBadge {
+  color: #e4e4e7;
+  display: flex;
+  align-items: center;
+}
+
+.pagoBadgeTexto {
+  font-size: 0.72rem;
+  font-weight: 700;
+  background-color: #27272a;
+  color: #e4e4e7;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid #3f3f46;
+}
+
+.inferior {
+  border-top: 1px solid #27272a;
+  padding: 1.25rem 1.5rem;
+  text-align: center;
+}
+
+.copyright {
+  margin: 0;
+  font-size: 0.82rem;
+  color: #71717a;
+}
+
+@media (max-width: 860px) {
+  .equipoGrid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .contenido {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 540px) {
+  .contenido {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  .trustBar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

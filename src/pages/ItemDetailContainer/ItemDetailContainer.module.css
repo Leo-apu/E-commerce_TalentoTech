@@ -1,0 +1,80 @@
+.loadingContenedor {
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.spinner {
+  width: 44px;
+  height: 44px;
+  border: 3px solid var(--color-border);
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mensajeCargando {
+  font-size: 0.95rem;
+  color: var(--color-text-secondary);
+  font-weight: 500;
+}
+
+.estadoMensaje {
+  max-width: 440px;
+  margin: 5rem auto;
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  background-color: var(--color-surface);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.iconoAlerta {
+  color: var(--color-accent);
+  margin-bottom: 1rem;
+}
+
+.estadoMensaje h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.estadoMensaje p {
+  margin: 0 0 1.5rem;
+  font-size: 0.92rem;
+  color: var(--color-text-secondary);
+}
+
+.botonVolver {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: var(--color-primary);
+  color: var(--color-text-inverse);
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.92rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-full);
+  transition: all var(--transition-fast);
+}
+
+.botonVolver:hover {
+  background-color: var(--color-primary-hover);
+  transform: translateY(-2px);
+}
