@@ -11,8 +11,8 @@ Proyecto desarrollado para el curso de **Desarrollo Frontend con React** en **Ta
 
 ## 🚀 Despliegue en Vivo y Repositorio
 
-- **Sitio Web (Deploy):** https://tienda-e-commerce-leandro-cruz.netlify.app/
-- **Repositorio en GitHub:** https://github.com/Leandrocruz00/E-commerce_TalentoTech
+- **Sitio Web (Deploy):** https://ecommerce-talentotech.vercel.app/
+- **Repositorio en GitHub:** https://github.com/Leo-apu/E-commerce_TalentoTech
 
 ---
 
